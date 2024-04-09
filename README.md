@@ -1,1 +1,3 @@
 # kitty
+
+kitty terminal configuration
